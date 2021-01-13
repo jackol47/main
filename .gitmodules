@@ -1,0 +1,3 @@
+[submodule "lib"]
+	path = lib
+	url = /Users/chenguanhua/test/lib/.git/
